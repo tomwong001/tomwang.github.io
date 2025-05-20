@@ -54,8 +54,8 @@ I’m using this space to log:
 ## 📬 Let’s Connect
 
 - ✉️ **Email:** zhenjian.wang@yale.edu
-- 💼 **LinkedIn:** [linkedin.com/in/zhenjian-wang](https://linkedin.com/in/zhenjian-wang)  
-- 🐙 **GitHub:** [@zhenjianwang](https://github.com/zhenjianwang)
+- 💼 **LinkedIn:** [linkedin.com/in/zhenjian-tom-wang](https://www.linkedin.com/in/zhenjian-tom-wang-881476226/)  
+- 🐙 **GitHub:** [@zhenjianwang](https://github.com/tomwong001)
 
 ---
 
