@@ -16,7 +16,7 @@
 
 ## 🔬 My Medical AI Journey
 
-I’ve tried my hand at novel writing, music, YouTube content creation, and even stock trading—but none lit the spark like Medical AI. Now, I’m focused on:
+I’ve tried my hand at novel writing, music, YouTube content creation, and even stock trading—but none lit the spark like Medical AI. Now, I am currently focused on single cell BCR TCR, but I want to work in:
 
 - **Computer Vision** for medical imaging (X-rays, MRIs, histopathology slides)  
 - **Natural Language Processing** for clinical notes & care coordination  
@@ -50,6 +50,14 @@ I’m using this space to log:
 
 
 
+## 🗒️ Work Notes
+<details>
+  <summary>Click to view my running lab journal</summary>
+
+- [Latest note](work-notes/2025-05-20.md)
+- [All notes directory](work-notes/)
+</details>
+
 
 ## 📬 Let’s Connect
 
@@ -58,5 +66,8 @@ I’m using this space to log:
 - 🐙 **GitHub:** [@zhenjianwang](https://github.com/tomwong001)
 
 ---
+
+
+
 
 *Thank you for stopping by—keep an eye on this page for updates!*  
