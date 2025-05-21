@@ -43,10 +43,25 @@ I’m using this space to log:
 
 ---
 
-## 🚀 Projects
+## 🚀 Progress
 
-| Project                          | Description                                    | Status       |
-|----------------------------------|------------------------------------------------|--------------|
+05/20/2025: 
+CMC-Net: 3D calf muscle compartment segmentation with sparse annotationhttps://www.sciencedirect.com/science/article/pii/S1361841522001074
+I am having trouble finding codes
+
+On Neuromuscular Disease Detection from Electromyograms using Convolutional and Recurrent Neural Networks
+Machine Learning Based Neuromuscular Disease Detection and Classification Using EMG Signal
+
+i am having trouble finding codes and data. not sure what to do... 
+
+Automated Diagnosis of Neuromuscular Disorders using EMG Signals
+
+
+https://ieeexplore.ieee.org/document/10914752/references#references
+Machine Learning Based Neuromuscular Disease Detection and Classification Using EMG Signal
+
+this paper has like an available dataset:https://data.mendeley.com/datasets/543xpjycj9/1
+
 
 
 
