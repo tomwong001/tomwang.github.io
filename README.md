@@ -45,7 +45,7 @@ I’m using this space to log:
 
 ## 🚀 Progress
 
-05/20/2025: 
+### 05/20/2025: 
 CMC-Net: 3D calf muscle compartment segmentation with sparse annotationhttps://www.sciencedirect.com/science/article/pii/S1361841522001074
 I am having trouble finding codes
 
@@ -62,7 +62,7 @@ Machine Learning Based Neuromuscular Disease Detection and Classification Using 
 
 this paper has like an available dataset:https://data.mendeley.com/datasets/543xpjycj9/1
 
-05-24
+### 05/24/2025:
 
 https://pmc.ncbi.nlm.nih.gov/articles/PMC10516682/   CMC-Net: 3D calf muscle compartment segmentation with sparse annotation
 
@@ -72,6 +72,13 @@ this one is accepted by MICCAI
 https://github.com/Hirriririir/Multimodal-Multiethnic-Thigh-Muscle-MRI-analysis?tab=readme-ov-file#multimodal-multiethnic-thigh-muscle-mri-analysis
 
 this one has data and code
+
+
+
+### 05/25/2025
+
+read a bit on how to write paper/ publish paper, how to do research, and what are some trends in medical image
+
 
 
 
