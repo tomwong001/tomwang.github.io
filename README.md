@@ -62,6 +62,16 @@ Machine Learning Based Neuromuscular Disease Detection and Classification Using 
 
 this paper has like an available dataset:https://data.mendeley.com/datasets/543xpjycj9/1
 
+05-24
+
+https://pmc.ncbi.nlm.nih.gov/articles/PMC10516682/   CMC-Net: 3D calf muscle compartment segmentation with sparse annotation
+
+this one is accepted by MICCAI
+
+
+https://github.com/Hirriririir/Multimodal-Multiethnic-Thigh-Muscle-MRI-analysis?tab=readme-ov-file#multimodal-multiethnic-thigh-muscle-mri-analysis
+
+this one has data and code
 
 
 
